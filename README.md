@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Bet20
 - 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Angular and OOP
+- 🌱 I’m currently learning {something}
