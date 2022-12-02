@@ -1,6 +1,7 @@
 ## **Hello**, 
 
-I am Bet20, a human, with interests mainly in game programming/ scripting, tool development and programming languages.
-> Favourite *langs* -> [Go, Rust, C, Haskell, Js, lua] ... others to come. 🧪 
+I am Bet20, a human with interests mainly in game programming/ scripting, tool development and programming languages.
+> Favourite *langs* -> none
 
-Current editor 📝 -> in between VS Code *&* nvim
+Current editor 📝 -> Pencil and Paper
+Pic: Donna **Ophelia** The 1st
