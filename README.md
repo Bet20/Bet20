@@ -1,7 +1,7 @@
 ## **Hello**, 
 
 I am Bet20, a human with interests mainly in game programming/ scripting, tool development and programming languages.
-> Favourite *langs* -> none
+> Favourite *langs* -> Portunholese
 
 Current editor 📝 -> Pencil and Paper
 
