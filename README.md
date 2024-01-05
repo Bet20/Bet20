@@ -1,8 +1,8 @@
 ## **Hello**, 
 
-I am Bet20, a human with interests mainly in game programming/ scripting, tool development and programming languages.
-> Favourite *langs* -> Portunholese
+I am Bet20, a human with interests in game programming/ scripting, tool development and programming languages.
+> Favourite *langs* -> Galician
 
 Current editor 📝 -> Pencil and Paper
 
-Pic: Donna **Ophelia** The 1st
+Pic: Donna **Ophelia**
